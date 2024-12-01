@@ -1,4 +1,4 @@
-import { raydiumAmmProgram } from "../src";
+import { raydiumAmmProgram } from "../index";
 import { AnchorProvider, BN } from "@coral-xyz/anchor";
 import { CustomWallet } from "./utils/wallet";
 import { Connection, Keypair, PublicKey } from "@solana/web3.js";

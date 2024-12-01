@@ -4,7 +4,7 @@
     "moduleResolution": "node",
     "target": "es2019",
     "outDir": "dist/esm/",
-    "rootDir": "./src",
+    "rootDir": "./",
     "module": "commonjs",
   }
 }

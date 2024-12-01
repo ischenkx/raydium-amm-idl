@@ -1,4 +1,4 @@
-import { RaydiumAmmCoder } from "../src/coder";
+import { RaydiumAmmCoder } from "../coder";
 import { Idl } from "@coral-xyz/anchor";
 import idl from "../idl.json";
 
