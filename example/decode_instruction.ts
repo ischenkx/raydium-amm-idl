@@ -1,5 +1,6 @@
 import { RaydiumAmmCoder } from "../coder";
 import { Idl } from "@coral-xyz/anchor";
+// @ts-ignore
 import idl from "../idl.json";
 
 (async () => {

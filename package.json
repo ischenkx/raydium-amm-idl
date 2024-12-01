@@ -25,9 +25,9 @@
   },
   "dependencies": {
     "@coral-xyz/anchor": "0.28.1-beta.1",
-    "@native-to-anchor/buffer-layout": "^0.1.0",
-    "@solana/spl-token": "^0.3.8",
-    "@solana/web3.js": "^1.78.0"
+    "@native-to-anchor/buffer-layout": "=0.1.0",
+    "@solana/spl-token": "=0.3.8",
+    "@solana/web3.js": "1.95.5"
   },
   "devDependencies": {
     "@rollup/plugin-commonjs": "=21.0.2",
