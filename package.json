@@ -1,12 +1,12 @@
 {
-  "name": "@raydium-io/raydium_amm",
+  "name": "@ischenkx/raydium-amm-idl",
   "description": "Raydium AMM",
   "version": "0.3.0",
   "author": "Raydium Maintainers ",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/raydium-io/raydium-amm.git"
+    "url": "https://github.com/ischenkx/raydium-amm-idl.git"
   },
   "files": [
     "dist"
